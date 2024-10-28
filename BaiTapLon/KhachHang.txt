@@ -1,0 +1,61 @@
+10
+172
+124
+Nguyen Van Vinh
+Nam
+Thanh Xuan
+933424874
+321
+115
+Bui Thu Thao
+Nu
+Hoang Mai
+932344812
+305
+157
+Ba Phuong Anh
+Nu
+Hoang Mai
+392847702
+195
+201
+Tran Hai Nam
+Nam
+Hai Ba Trung
+922324867
+221
+177
+Bui Hai Nhu
+Nu
+Hoang Mai
+356735727
+319
+123
+Tran Thi Thanh Nhan
+Nu
+Hoang Mai
+954679032
+299
+413
+Bui Duy Khanh
+Nam
+Cau Giay
+964352627
+282
+340
+Duong Xuan Quy
+Nam
+Hoang Mai
+364678011
+422
+311
+Tran Thi Hanh
+Nu
+Cau Giay
+625674793
+111
+275
+Nguyen Van Anh
+Nu
+Thanh Xuan
+923560521

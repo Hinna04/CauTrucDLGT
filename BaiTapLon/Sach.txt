@@ -1,0 +1,73 @@
+12
+142
+Detective Conan
+Aoyama Gosho
+20
+946
+Trinh tham
+352
+Nha Gia Kim
+Paulo Coelho
+65.9
+571
+Tieu thuyet
+425
+Bo Gia
+Mario Puzo
+59
+642
+Tieu thuyet
+213
+Chiec Thuyen Ngoai Xa
+Nguyen Minh Chau
+30.2
+244
+Sach giao khoa
+411
+Ty Phu Ban Giay
+Tony Hsieh
+41
+567
+Khac
+348
+Lao Hac
+Kim Lan
+24.66
+891
+Sach giao khoa
+329
+Chu Ga Nuoi Meo U
+Sakurai Umi
+45.5
+659
+Tieu thuyet
+204
+Ngoi Nha Am Ap
+Nhieu tac gia
+52
+664
+Khac
+623
+Tuoi Tho Du Doi
+Phung Quan
+43
+882
+Tieu thuyet
+221
+Toi Di Hoc
+Nguyen Ngoc Ky
+30.67
+879
+Sach giao khoa
+408
+Tren Duong Bang
+Tony Buoi Sang
+33.9
+734
+Khac
+520
+Tinh Khuc Mua Tho
+Le Thi Phu Sa
+27
+580
+Tieu thuyet
